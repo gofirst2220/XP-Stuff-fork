@@ -1,0 +1,24 @@
+div.titlebox .md h3, div.titlebox h1, div.titlebox .md h2, div.titlebox .md h4, .sidecontentbox .title, .morelink a, #header, .sidecontentbox a.helplink, .nextprev a {
+    background-image: -webkit-linear-gradient(left, #16428b, #3890f8) !important;
+}
+div.titlebox .md ul li, div.side span.subscribers, div.side form.flairtoggle, div.side div.tagline, .side .titlebox>.fancy-toggle-button {
+    padding: 10px;
+    border-left: 5px solid #dedede !important;
+    background-color: #e8e8d8 !important;
+    border-bottom: 1px solid #d7ecff;
+       border-right: 1px outset #dedede !important;
+}
+#header-bottom-right .user, 
+#header-bottom-right #modmail, #header-bottom-right .choice, #header #header-bottom-right .logout a{
+background: -webkit-linear-gradient(left, #16428b, #3890f8) !important;
+}
+#header .redditname a:after {
+    content: "Windows";
+    font-size: 70px;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+body {
+    background-color: rgba(235, 232, 215, 1) !Important;
+}
