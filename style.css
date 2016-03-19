@@ -26,3 +26,10 @@ body {
 .sidebox .subtitle{
     position: initial !important;
 }
+.tabmenu{
+ border-top-style:solid !important;
+ border-top-color: transparent !important;
+ border-top-width: 5px !important;
+ border-image: linear-gradient(to left, white 0%, orange 90%) !important;
+ border-image-slice: 1 !important;
+}
