@@ -6,7 +6,7 @@ div.titlebox .md ul li, div.side span.subscribers, div.side form.flairtoggle, di
     border-left: 5px solid #dedede !important;
     background-color: #e8e8d8 !important;
     border-bottom: 1px solid #d7ecff;
-       border-right: 1px outset #dedede !important;
+    border-right: 1px outset #dedede !important;
 }
 #header-bottom-right .user, 
 #header-bottom-right #modmail, #header-bottom-right .choice, #header #header-bottom-right .logout a{
@@ -20,5 +20,9 @@ background: -webkit-linear-gradient(left, #16428b, #3890f8) !important;
 }
 
 body {
-    background-color: rgba(235, 232, 215, 1) !Important;
+    background-color: rgba(235, 232, 215, 1) !important;
+}
+
+.sidebox .subtitle{
+    position: initial !important;
 }
